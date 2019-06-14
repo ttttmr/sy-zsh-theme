@@ -1,5 +1,9 @@
 # sy-zsh-theme
 
-基于ys主题修改
+Based on ys-zsh-theme modification
 
 ![](ScreenShot.png)
+
+## Install
+
+`wget https://raw.githubusercontent.com/ttttmr/sy-zsh-theme/master/sy.zsh-theme -O $ZSH_CUSTOM/themes/sy.zsh-theme`
